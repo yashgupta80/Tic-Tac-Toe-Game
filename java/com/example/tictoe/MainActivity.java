@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
-    // Method for playAgain Method:
+    // Method for playAgain Button :
     public void playAgain(View view){
         TextView textView = findViewById(R.id.winningTextView);
         Button button = findViewById(R.id.playAgainButtton);
